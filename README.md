@@ -1,2 +1,2 @@
 # bookchain
-Bookchain 2.0 w/AI and automatically generated quizzes
+Bookchain 1.0 w/AI and automatically generated quizzes
